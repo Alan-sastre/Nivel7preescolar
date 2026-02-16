@@ -25,7 +25,6 @@ var config = {
     willReadFrequently: true,
   },
   scene: [
-    ContextoScene,
     MinijuegoScene
   ],
 
